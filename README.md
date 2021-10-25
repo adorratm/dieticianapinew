@@ -1,2 +1,2 @@
-# dieticianapinew
-Klinikdiyetisyen.com Laravel Api
+# diet
+Mutfak Yapım Diyetisyen Projesi
